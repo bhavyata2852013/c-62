@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+#apps{
+    background-color: aqua;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+#games{
+    background-color: blueviolet;
+}
+#chatbot{
+    background-color: crimson;
+}
+#mycarousel{
+    background-color: blueviolet;
+    padding: 50px;
+    color: white;
+}
